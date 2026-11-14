@@ -1,0 +1,17 @@
+{
+  "title": "Name Garden",
+  "description": "An optional Russian, Brazilian Portuguese and English editorial name research example.",
+  "locale": "ru",
+  "participants": {
+    "first": "Participant 1",
+    "second": "Participant 2"
+  },
+  "familyDefaults": {
+    "fatherRu": "",
+    "fatherLatin": "",
+    "surnameRu": "",
+    "surnameLatin": "",
+    "patronymic": ""
+  },
+  "researchEnabled": true
+}

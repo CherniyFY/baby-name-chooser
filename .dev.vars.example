@@ -1,0 +1,4 @@
+# Optional for loopback development; required for built previews and deployment.
+# Copy this file to .dev.vars and replace this value to test authentication.
+NAME_GARDEN_PASSWORD="choose-a-long-private-password"
+NAME_GARDEN_USERNAME="family"

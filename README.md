@@ -39,7 +39,9 @@ npm run configure -- ru-br-en
 Preset selection replaces the three configuration files; it does not change saved
 ratings, notes, leagues or tournaments. Back up your configuration before switching,
 and use a fresh database for unrelated name lists. Keep name IDs stable when editing
-an existing list. See [configuration](docs/CONFIGURATION.md).
+an existing list. Leagues and tournaments containing unknown IDs are hidden intact;
+they reappear when their catalog returns. Exports cover the active catalog.
+See [configuration](docs/CONFIGURATION.md).
 
 ## How choosing works
 

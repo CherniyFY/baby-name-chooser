@@ -1,0 +1,17 @@
+{
+  "title": "Name Garden",
+  "description": "A shared baby name shortlist with independent ratings and pair comparisons.",
+  "locale": "en",
+  "participants": {
+    "first": "Participant 1",
+    "second": "Participant 2"
+  },
+  "familyDefaults": {
+    "fatherRu": "",
+    "fatherLatin": "",
+    "surnameRu": "",
+    "surnameLatin": "",
+    "patronymic": ""
+  },
+  "researchEnabled": false
+}
